@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="矩形_107" data-name="矩形 107" width="30" height="30" transform="translate(1240 1069)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="蒙版组_34" data-name="蒙版组 34" transform="translate(-1240 -1069)" clip-path="url(#clip-path)">
+    <path id="icon" d="M34.679,31.712c1.228-2.137.548-3.779-1.627-5.422C30.5,24.359,28,23.06,26.2,25.141c0,0-1.907,2.27-7.518-3.042-6.525-6.22-3.786-8.425-3.786-8.425,2.269-2.281.827-3.983-1.076-6.561S9.994,3.72,7.235,5.936c-5.318,4.272,2.181,14.3,5.972,18.2h0S18.972,30.1,22.6,32.089l1.941,1.085c2.784,1.429,5.911,2.082,8.112.756A5.757,5.757,0,0,0,34.679,31.712Z" transform="translate(1234.661 1064.349)" fill="#fff"/>
+  </g>
+</svg>

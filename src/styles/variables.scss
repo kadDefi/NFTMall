@@ -1,0 +1,66 @@
+
+$menuText: #bfcbd9;
+$menuActiveText: #ffffff;
+$subMenuActiveText: #f4f4f5; //https://github.com/ElemeFE/element/issues/12951
+$subMenuActiveBacColor: #2175ff;
+$menuBg: #283142;
+$menuHover: #263445;
+$subMenuBg: #1a2130;
+$subMenuHover: #1a2130;
+$subMenuHoverColor: #fff;
+$sideBarWidth: 254px;
+// the :export directive is the magic sauce for webpack
+// https://www.bluematador.com/blog/how-to-share-variables-between-js-and-sass
+:export {
+  menuText: $menuText;
+  menuActiveText: $menuActiveText;
+  subMenuActiveText: $subMenuActiveText;
+  subMenuActiveBacColor: $subMenuActiveBacColor;
+  menuBg: $menuBg;
+  menuHover: $menuHover;
+  subMenuHoverColor: $subMenuHoverColor;
+  subMenuBg: $subMenuBg;
+  subMenuHover: $subMenuHover;
+  sideBarWidth: $sideBarWidth;
+}
+
+// 文档的根元素，这是一个放自定义属性的好地方，因为我们可以根据其他个别特别的样式的选择性来覆盖自定义属性
+:root {
+  --black:#000;
+  --white:#fff;
+  --primary:#a460f5;
+  --bgc01:#171719;
+  --bgc02:rgba(0,0,0,.5);
+  --bgc03:#24252d;
+  --bgc04:#d0d0d0;
+  --bgc05:#fafafa;
+  --bgc06:#f5e5fd;
+  --bgc07:#262626;
+  --bgc08:#707070;
+  --bgc09:#999999;
+  --bgc10:rgb(112,112,112,.12);
+  --bgc11:#5a5a5a;
+  --bgc12:#d745e8;
+  --bgc13:#74e9f2;
+  --bgc14:#e39f33;
+  --bgc15:#585858;
+  --bgc16:#1c1a12;
+  --bgc17:#5c5c5c;
+  --bgc18:#ebd5f8;
+  --bgc19:#393939;
+  --bgc20:#1c1c1c;
+  --bgc21:rgb(29,29,29,.8);
+  --bgc22:#72716a;
+  --bgc23:rgba(0,0,0,.56);
+  --bgc24:#1e1922;
+  --bgc25:#200739;
+  --bgc26:#666666;
+  --bgc27:rgba(0,0,0,.4);
+  --bgc28:#333333;
+  --bgc29:rgb(112,112,112,.34);
+
+  --bgc001:#9a55dc;
+
+}
+
+

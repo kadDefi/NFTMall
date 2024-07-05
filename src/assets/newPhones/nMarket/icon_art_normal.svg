@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+    <defs>
+        <clipPath id="3fsqm5mzja">
+            <rect data-name="矩形 7157" width="50" height="50" rx="10" transform="translate(964 378)" style="fill:#383c6f"/>
+        </clipPath>
+    </defs>
+    <g data-name="蒙版组 385" transform="translate(-964 -378)" style="clip-path:url(#3fsqm5mzja)">
+        <path data-name="3865dfb5005ce4e66b37178070f34545" d="M54.5 12h-35a7.366 7.366 0 0 0-7.5 7.5v35a7.366 7.366 0 0 0 7.5 7.5h35a7.366 7.366 0 0 0 7.5-7.5v-35a7.366 7.366 0 0 0-7.5-7.5zM57 41.75 52.25 37a7.712 7.712 0 0 0-10.5 0l-2.25 2.25L32.25 32a7.711 7.711 0 0 0-10.5 0L17 36.75V19.5a2.362 2.362 0 0 1 2.5-2.5h35a2.362 2.362 0 0 1 2.5 2.5z" transform="translate(952 366)" style="fill:#383c6f"/>
+    </g>
+</svg>

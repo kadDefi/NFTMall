@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44">
+    <defs>
+        <clipPath id="i99prvjp1a">
+            <path data-name="矩形 7333" transform="translate(11 474)" style="fill:#fff" d="M0 0h44v44H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="蒙版组 418" transform="translate(-11 -474)" style="clip-path:url(#i99prvjp1a)">
+        <g data-name="组 23375" transform="translate(-7 3)">
+            <g data-name="椭圆 1381" transform="translate(25 478)" style="stroke:#fff;stroke-width:2px">
+                <circle cx="15" cy="15" r="15" style="stroke:none"/>
+                <circle cx="15" cy="15" r="14" style="fill:none"/>
+            </g>
+            <circle data-name="椭圆 1382" cx="7.5" cy="7.5" r="7.5" transform="translate(32.5 485.5)" style="fill:#9a55dc"/>
+        </g>
+    </g>
+</svg>

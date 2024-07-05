@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="18" viewBox="0 0 14 18">
+    <defs>
+        <clipPath id="rk3xq13zja">
+            <path data-name="矩形 5402" transform="translate(1136 753)" style="stroke:#707070;fill:#fff" d="M0 0h14v18H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="蒙版组 167" transform="translate(-1136 -753)" style="clip-path:url(#rk3xq13zja)">
+        <path data-name="路径 32893" d="m2.485.619 10.043 7.333a1.41 1.41 0 0 1 0 2.218L2.485 17.5c-.719.525-1.725.965-2.3 0-.471-1.691 1.33-3.728 1.33-8.711C1.515 4.43-.315 1.45.185.616c.298-1.077 1.581-.522 2.3.003z" transform="translate(1136.904 753)" style="fill:#fff"/>
+    </g>
+</svg>

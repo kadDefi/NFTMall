@@ -1,0 +1,114 @@
+@import "./variables.scss";
+@import "./mixin.scss";
+@import "./transition.scss";
+@import "./element-ui.scss";
+@import "./sidebar.scss";
+
+body {
+  height: 100%;
+  margin: 0;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  font-family: Helvetica Neue, Helvetica, PingFang SC, Hiragino Sans GB,Microsoft YaHei, Arial, sans-serif;
+}
+
+label {
+  font-weight: 700;
+}
+
+html {
+  height: 100%;
+  box-sizing: border-box;
+}
+
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: transparent;
+  text-align: center;
+  overflow-x: hidden;
+  cursor: default;
+  white-space: normal;
+  word-break: break-all;
+
+  // background-image: url('../assets/homes/icon_home_bg.png');
+  // background-size: 100% 100%;
+  // background-position: top;
+  // background-attachment: fixed;
+  // background-repeat: no-repeat;
+  /*隐藏滚动条，当IE下溢出，仍然可以滚动*/ 
+  //-ms-overflow-style: none;
+  /*火狐下隐藏滚动条*/ 
+  //overflow: -moz-scrollbars-none; 
+}
+
+// @media screen and (max-width: 768px){
+//   #app {
+//     background-image: url('../assets/images/ordinary_h5_bg.png');
+//   }
+// }
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+a:focus,
+a:active {
+  outline: none;
+}
+
+a,
+a:focus,
+a:hover {
+  cursor: pointer;
+  color: inherit;
+  text-decoration: none;
+}
+
+div:focus {
+  outline: none;
+}
+span:focus {
+  outline: none;
+}
+
+// 单行超出显示...
+.text-ellipsis {
+  overflow: hidden;
+  white-space: nowrap;
+  word-break: break-all;
+  text-overflow: ellipsis;
+}
+
+// 最多两行，超出显示...
+.multi-ellipsis--l2 {
+  overflow: hidden;
+  word-break: break-all;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  text-overflow: ellipsis;
+}
+
+// 最多三行，超出显示...
+.multi-ellipsis--l3 {
+  overflow: hidden;
+  word-break: break-all;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  text-overflow: ellipsis;
+}
+
+/deep/ .el-notification {
+  width: 500px !important;
+  height: 100px !important;
+}

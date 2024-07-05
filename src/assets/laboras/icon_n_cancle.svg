@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="156" height="64" viewBox="0 0 156 64">
+    <defs>
+        <filter id="8zmk6otxrb" x="-7" y="-8" width="170" height="80" filterUnits="userSpaceOnUse">
+            <feOffset/>
+            <feGaussianBlur stdDeviation="5" result="blur"/>
+            <feFlood flood-color="#7b28db" flood-opacity=".596"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="t4jziw9n8c" x="-7" y="-8" width="170" height="80" filterUnits="userSpaceOnUse">
+            <feOffset dy="3"/>
+            <feGaussianBlur stdDeviation="5" result="blur-2"/>
+            <feFlood flood-color="#742adc" result="color"/>
+            <feComposite operator="out" in="SourceGraphic" in2="blur-2"/>
+            <feComposite operator="in" in="color"/>
+            <feComposite operator="in" in2="SourceGraphic"/>
+        </filter>
+        <clipPath id="5wx94h8sra">
+            <path data-name="矩形 8400" transform="translate(966 591)" style="fill:#fff" d="M0 0h156v64H0z"/>
+        </clipPath>
+    </defs>
+    <g data-type="innerShadowGroup" data-name="蒙版组 606" transform="translate(-966 -591)" style="clip-path:url(#5wx94h8sra)">
+        <g style="filter:url(#8zmk6otxrb)" transform="translate(966 591)">
+            <rect data-name="矩形 8399" width="140" height="50" rx="10" transform="translate(8 7)" style="fill:#2e2e48"/>
+        </g>
+        <g style="filter:url(#t4jziw9n8c)" transform="translate(966 591)">
+            <rect data-name="矩形 8399" width="140" height="50" rx="10" transform="translate(8 7)" style="fill:#fff"/>
+        </g>
+    </g>
+</svg>

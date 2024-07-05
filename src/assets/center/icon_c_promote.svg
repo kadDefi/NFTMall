@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34">
+    <defs>
+        <clipPath id="q2wceiudoa">
+            <path data-name="矩形 7762" transform="translate(291 780)" style="fill:#fff" d="M0 0h34v34H0z"/>
+        </clipPath>
+        <clipPath id="920gc9qtmb">
+            <path data-name="矩形 8079" transform="translate(.143)" style="fill:#fff" d="M0 0h24v25H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="蒙版组 550" transform="translate(-291 -780)" style="clip-path:url(#q2wceiudoa)">
+        <g data-name="组 50770" transform="translate(2.248 1)">
+            <g data-name="Promote Business Management Invest" transform="translate(291.609 784)" style="clip-path:url(#920gc9qtmb)">
+                <path data-name="路径 157499" d="M5.755 8.258h-2.5A1.252 1.252 0 0 0 2 9.51v7.51a1.252 1.252 0 0 0 1.252 1.252h2.5zm20.752-6.02a1.252 1.252 0 0 0-1.126-.175L8.258 7.77v10.99l2.5.826v6.2a1.252 1.252 0 0 0 1.252 1.252h5.01a1.252 1.252 0 0 0 1.252-1.252v-3.697l7.109 2.441a1.489 1.489 0 0 0 .4 0 1.177 1.177 0 0 0 .726-.238 1.252 1.252 0 0 0 .526-1.014V3.252a1.252 1.252 0 0 0-.526-1.014z" transform="translate(-1.631 -2)" style="fill:#fff"/>
+            </g>
+            <ellipse data-name="椭圆 1502" cx="5" cy="7" rx="5" ry="7" transform="translate(309.752 789)" style="fill:#fff"/>
+        </g>
+    </g>
+</svg>

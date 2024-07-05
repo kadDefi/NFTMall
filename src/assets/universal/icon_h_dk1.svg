@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+    <defs>
+        <clipPath id="k9tfm9wqea">
+            <path data-name="矩形 8322" transform="translate(601 201)" style="fill:#fff" d="M0 0h16v16H0z"/>
+        </clipPath>
+        <clipPath id="q699lmwpjb">
+            <path data-name="矩形 8321" style="fill:#fff" d="M0 0h16v16.017H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="蒙版组 574" transform="translate(-601 -201)" style="clip-path:url(#k9tfm9wqea)">
+        <g data-name="组 52003">
+            <g data-name="组 52002">
+                <g data-name="组 52001" transform="translate(601 201.069)" style="clip-path:url(#q699lmwpjb)">
+                    <path data-name="路径 164504" d="M557.874 146.521a7.994 7.994 0 1 1 5.375-13.91.666.666 0 0 1-.9.986 6.661 6.661 0 1 0-.013 9.873.666.666 0 1 1 .894.987 7.971 7.971 0 0 1-5.36 2.064" transform="translate(-549.882 -130.523)" style="fill:#fff"/>
+                </g>
+            </g>
+            <path data-name="路径 164505" d="M797.98 373.435h-8.5a.666.666 0 0 1 0-1.332h8.5l-1.452-1.494a.666.666 0 0 1 .942-.942l2.47 2.541a.906.906 0 0 1 0 1.121l-2.47 2.541a.666.666 0 1 1-.942-.942l1.452-1.494zm0 0" transform="translate(-183.149 -163.731)" style="fill:#fff"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,73 @@
+
+@mixin toFlex($just, $items) {
+  display: flex;
+  justify-content: $just;
+  align-items: $items;
+}
+@mixin flexLayout($fx,$xz,$yz) {
+  display: flex;
+  flex-direction: $fx;
+  justify-content: $xz,;
+  align-items: $yz;
+}
+
+@mixin size($width, $height) {
+  width: $width;
+  height: $height;
+}
+@mixin converTop($top) {
+  top: $top / 750 * 100vw;
+}
+@mixin converWidth($width) {
+  width: $width / 750 * 100vw;
+}
+@mixin converHeight($height) {
+  height: $height / 750 * 100vw;
+}
+@mixin converFont($font) {
+  font-size: $font / 750 * 100vw;
+}
+@mixin converMargin($s,$y,$x,$z) {
+  margin: ($s / 750 * 100vw) ($y / 750 * 100vw) ($x / 750 * 100vw) ($z / 750 * 100vw);
+}
+@mixin converPadding($s,$y,$x,$z) {
+  padding: ($s / 750 * 100vw) ($y / 750 * 100vw) ($x / 750 * 100vw) ($z / 750 * 100vw);
+}
+@mixin converLineHeight($lineHeight) {
+  line-height: $lineHeight / 750 * 100vw;
+}
+@mixin converBorderRadius($sl,$sr,$br,$bl) {
+  border-radius: ($sl / 750 * 100vw) ($sr / 750 * 100vw) ($br / 750 * 100vw) ($bl / 750 * 100vw);
+}
+// iPhone 6尺寸作为设计稿基准
+$vm_base: 750;
+@function vw($px){
+  @return ($px / $vm_base) * 100vw;
+}
+
+@mixin clearfix {
+  &:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+}
+@mixin scrollBar {
+  &::-webkit-scrollbar-track-piece {
+    background: #d3dce6;
+  }
+
+  &::-webkit-scrollbar {
+    width: 6px;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background: #99a9bf;
+    border-radius: 20px;
+  }
+}
+@mixin relative {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}

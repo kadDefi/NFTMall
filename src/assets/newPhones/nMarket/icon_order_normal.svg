@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+    <defs>
+        <clipPath id="0zm8j8xyaa">
+            <path data-name="矩形 7158" transform="translate(983 435)" style="stroke:#707070;fill:#383c6f" d="M0 0h50v50H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="蒙版组 386" transform="translate(-983 -435)" style="clip-path:url(#0zm8j8xyaa)">
+        <g data-name="7911f6afafb86b047498c455bb75c1a0">
+            <path data-name="路径 147423" d="m72 27.638-.239.137-.667.353-.917.479-20.918 11.061-9.059-4.792 21.011-11 .923-.479.917-.484z" transform="translate(958.724 419.369)" style="fill:#383c6f"/>
+            <path data-name="路径 147424" d="m46.946 14.344-.917.479-.929.477-21.006 11.011-9.394-4.975-.912-.479-.678-.359-.234-.131L35.617 8.354z" transform="translate(972.384 426.646)" style="fill:#383c6f"/>
+            <path data-name="路径 147425" d="M83.377 36.278V60.3L60.6 72.316V48.33L81.667 37.2l.855-.456.519-.274z" transform="translate(948.523 412.684)" style="fill:#383c6f"/>
+            <path data-name="路径 147426" d="M33.3 48.342v23.985L10.554 60.309V36.3l.3.171h.006l.547.291.855.45z" transform="translate(973.546 412.673)" style="fill:#383c6f"/>
+        </g>
+    </g>
+</svg>

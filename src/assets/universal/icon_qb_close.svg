@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <clipPath id="ji32xrxo1a">
+            <path data-name="矩形 8487" transform="translate(664 374)" style="fill:#fff;stroke:#707070" d="M0 0h24v24H0z"/>
+        </clipPath>
+    </defs>
+    <g transform="translate(-664 -374)" style="clip-path:url(#ji32xrxo1a)">
+        <path d="M14.182 0 0 14.182" style="fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;fill-rule:evenodd" transform="translate(668.999 379)"/>
+        <path data-name="Shape" d="m0 0 14.182 14.182" style="fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;fill-rule:evenodd" transform="translate(668.999 379)"/>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <linearGradient id="15ywk9puga" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#ff953f"/>
+            <stop offset="1" stop-color="#fcca6e"/>
+        </linearGradient>
+        <linearGradient id="vrh9fsay9c" x1=".268" y1=".467" x2="1.129" y2=".589" xlink:href="#15ywk9puga"/>
+        <linearGradient id="er22ywyomd" x1="-.617" y1=".399" x2="2.337" y2=".666" xlink:href="#15ywk9puga"/>
+        <clipPath id="02vir2fwvb">
+            <path data-name="矩形 7176" transform="translate(-1944 564)" style="fill:url(#15ywk9puga)" d="M0 0h24v24H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="蒙版组 395" transform="translate(1944 -564)" style="clip-path:url(#02vir2fwvb)">
+        <g data-name="7602ea30319fc8ad8e5f415b2fcb458e">
+            <path data-name="路径 147431" d="M12 0a12 12 0 1 0 12 12A12 12 0 0 0 12 0zm0 22a10 10 0 1 1 10-10 10 10 0 0 1-10 10z" transform="translate(-1944 564)" style="fill:url(#vrh9fsay9c)"/>
+            <path data-name="路径 147432" d="m15.682 13.31-4.515-2.71V5.167a1 1 0 0 0-2 0v6a1.075 1.075 0 0 0 .485.857l5 3a1 1 0 1 0 1.03-1.714z" transform="translate(-1942.167 564.833)" style="fill:url(#er22ywyomd)"/>
+        </g>
+    </g>
+</svg>

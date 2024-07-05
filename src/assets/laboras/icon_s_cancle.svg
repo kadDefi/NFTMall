@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="40" viewBox="0 0 120 40">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6929af"/>
+      <stop offset="1" stop-color="#3b2999"/>
+    </linearGradient>
+  </defs>
+  <path id="矩形_78" data-name="矩形 78" d="M17.538,2a15.008,15.008,0,0,0-11.1,4.979A17.628,17.628,0,0,0,1.846,19v2a17.628,17.628,0,0,0,4.6,12.021A15.008,15.008,0,0,0,17.538,38h84.923a15.008,15.008,0,0,0,11.1-4.979A17.628,17.628,0,0,0,118.154,21V19a17.628,17.628,0,0,0-4.6-12.021A15.008,15.008,0,0,0,102.462,2H17.538m0-2h84.923C112.148,0,120,8.507,120,19v2c0,10.493-7.852,19-17.538,19H17.538C7.852,40,0,31.493,0,21V19C0,8.507,7.852,0,17.538,0Z" fill="url(#linear-gradient)"/>
+</svg>

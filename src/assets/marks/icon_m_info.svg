@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34">
+    <defs>
+        <clipPath id="z3uvn2g43a">
+            <path data-name="矩形 7525" transform="translate(291 780)" style="fill:#fff" d="M0 0h34v34H0z"/>
+        </clipPath>
+        <clipPath id="rouqyo9rnb">
+            <path data-name="矩形 7524" style="fill:#fff" d="M0 0h24v21.187H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="蒙版组 478" transform="translate(-291 -780)" style="clip-path:url(#z3uvn2g43a)">
+        <g data-name="组 23653">
+            <g data-name="组 23652">
+                <g data-name="组 23651" transform="translate(296 786)" style="clip-path:url(#rouqyo9rnb)">
+                    <path data-name="路径 152919" d="M599.193 220.087h19.362a2.313 2.313 0 0 1 2.313 2.313v14.745a2.313 2.313 0 0 1-2.08 2.3q-.115.011-.233.011h-.618v1.281c0 .553-.528.6-.892.367-.33-.215-.662-.426-1-.627a7.324 7.324 0 0 0-2.228-1.02h-14.624a2.313 2.313 0 0 1-2.313-2.313V222.4a2.313 2.313 0 0 1 2.313-2.313zm16.765 10.923a1.628 1.628 0 1 0-1.628-1.628 1.628 1.628 0 0 0 1.628 1.628zm-7.161 0a1.628 1.628 0 1 0-1.628-1.628 1.628 1.628 0 0 0 1.628 1.628zm-7.008 0a1.628 1.628 0 1 0-1.629-1.628 1.628 1.628 0 0 0 1.629 1.628zm0 0" transform="translate(-596.864 -220.084)" style="fill:#fff"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

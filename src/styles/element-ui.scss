@@ -1,0 +1,23 @@
+// cover some element-ui styles
+
+.notifyClass {
+  z-index: 9999!important;
+  width: 350px !important;
+  border:solid 3px !important;
+  border-image: linear-gradient(to bottom, var(--bgc12) 3%, var(--bgc13)) !important;
+  border-image-slice: 1 !important;
+  clip-path: inset(0 round 4px) !important;
+  background-color: var(--bgc21) !important;
+  .el-notification__title {
+    color: var(--white) !important;
+    display: none;
+  }
+  .el-notification__content {
+    color: var(--white) !important;
+    font-size: 16px;
+    font-weight: normal;
+    font-family: Poppins;
+    font-stretch: normal;
+    font-style: normal;
+  }
+}

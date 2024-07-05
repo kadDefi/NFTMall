@@ -1,0 +1,18 @@
+@font-face {  
+  font-family: 'DIN'; 
+  src: url('./DIN-Medium.ttf'); 
+  font-weight: normal;  
+  font-style: normal;  
+}
+@font-face {  
+  font-family: 'Ubuntu'; 
+  src: url('./Ubuntu-R.ttf'); 
+  font-weight: normal;  
+  font-style: normal;  
+}
+@font-face {  
+  font-family: 'Ubuntu-Medium'; 
+  src: url('./Ubuntu-M.ttf'); 
+  font-weight: normal;  
+  font-style: normal;  
+}

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="44" viewBox="0 0 120 44">
+    <defs>
+        <clipPath id="acyrb49xua">
+            <circle data-name="椭圆 984" cx="18.48" cy="18.48" r="18.48" transform="translate(632 94)" style="fill:#fff"/>
+        </clipPath>
+    </defs>
+    <g transform="translate(-559 -90)">
+        <rect data-name="矩形 3188" width="120" height="44" rx="22" transform="translate(559 90)" style="fill:#1a237b"/>
+        <g data-name="组 17605">
+            <g data-name="椭圆 985" transform="translate(637 94)" style="stroke:#fff;fill:#fff">
+                <circle cx="18.48" cy="18.48" r="18.48" style="stroke:none"/>
+                <circle cx="18.48" cy="18.48" r="18.98" style="fill:none"/>
+            </g>
+            <g data-name="蒙版组 153" style="clip-path:url(#acyrb49xua)" transform="translate(5)">
+                <g data-name="组 17602">
+                    <path data-name="矩形 4855" transform="translate(619 94)" style="fill:#fff" d="M0 0h62.713v36.58H0z"/>
+                    <path data-name="路径 53301" d="M43.779 0 20.154 13.226h4.333l20.722-11.6V0z" transform="translate(636.504 94)" style="fill:#bd0034"/>
+                    <path data-name="路径 53302" d="m21.949 12.892 21.7 12.144v-2.428l-17.365-9.716z" transform="translate(638.064 105.197)" style="fill:#bd0034"/>
+                    <path data-name="路径 53303" d="M0 2.619 18.562 13.06H22.9L0 .19z" transform="translate(619 94.165)" style="fill:#bd0034"/>
+                    <path data-name="路径 53304" d="M21.917 12.892 0 25.172v.211h3.961l22.3-12.491z" transform="translate(619 105.197)" style="fill:#bd0034"/>
+                    <path data-name="路径 53305" d="M19.515 0v12.3L41.472 0z" transform="translate(635.949 94)" style="fill:#1a237b"/>
+                    <path data-name="路径 53306" d="m2.622 0 21.869 12.3V0z" transform="translate(621.277 94)" style="fill:#1a237b"/>
+                    <path data-name="路径 53307" d="M25.591 10.978h14.9V2.587z" transform="translate(641.226 96.247)" style="fill:#1a237b"/>
+                    <path data-name="路径 53308" d="m25.591 12.892 14.9 8.3v-8.3z" transform="translate(641.226 105.197)" style="fill:#1a237b"/>
+                    <path data-name="路径 53309" d="M3.286 24.951h20.628V13.39z" transform="translate(621.854 105.63)" style="fill:#1a237b"/>
+                    <path data-name="路径 53310" d="M19.515 24.951h20.694L19.515 13.39z" transform="translate(635.949 105.63)" style="fill:#1a237b"/>
+                    <path data-name="路径 53311" d="M0 12.892v8.676l15.413-8.676z" transform="translate(619 105.197)" style="fill:#1a237b"/>
+                    <path data-name="路径 53312" d="M0 11.117h15.413L0 2.428z" transform="translate(619 96.109)" style="fill:#1a237b"/>
+                    <path data-name="路径 53313" d="M28.708 0v15.4H0v6.52h28.708v14.66h5.817V21.92h28.188V15.4H34.525V0z" transform="translate(619 94)" style="fill:#bd0034"/>
+                </g>
+            </g>
+        </g>
+    </g>
+    <text transform="translate(17 30)" style="font-size:22px;font-family:PingFangSC-Semibold,PingFang SC;font-weight:600;fill:#fff"><tspan x="0" y="0">EN</tspan></text>
+</svg>

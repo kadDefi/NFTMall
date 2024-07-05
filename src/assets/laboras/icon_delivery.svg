@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44">
+    <defs>
+        <clipPath id="1oedlphwea">
+            <path data-name="矩形 4684" transform="translate(408 714)" style="fill:#fff;stroke:#707070" d="M0 0h44v44H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="蒙版组 131" transform="translate(-408 -714)" style="clip-path:url(#1oedlphwea)">
+        <g data-name="组 11338">
+            <path data-name="路径 30988" d="m2.23 8.617 19.107-4.061a2.143 2.143 0 0 1 1.617.3l8.707 5.652a2.143 2.143 0 0 0 1.617.3l4.386-.933a2.151 2.151 0 0 1 2.552 1.657l.669 3.154a2.15 2.15 0 0 1-1.655 2.55l-7.539 1.6a2.157 2.157 0 0 1-1.619-.3l-8.7-5.654a2.148 2.148 0 0 0-1.619-.3l-3.334.707" transform="translate(407.064 715.962)" style="fill:none;stroke:#9f9f9f;stroke-linecap:round;stroke-miterlimit:2;stroke-width:2px"/>
+            <path data-name="路径 30989" d="m42.469 22.072-19.108 4.061a2.143 2.143 0 0 1-1.617-.3l-8.707-5.652a2.143 2.143 0 0 0-1.617-.3l-4.386.933a2.148 2.148 0 0 1-2.55-1.655L3.815 16a2.15 2.15 0 0 1 1.655-2.55l7.539-1.6a2.157 2.157 0 0 1 1.619.3l8.7 5.654a2.15 2.15 0 0 0 1.619.3l3.334-.707" transform="translate(408.832 724.348)" style="fill:none;stroke:#9f9f9f;stroke-linecap:round;stroke-miterlimit:2;stroke-width:2px"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+    <defs>
+        <clipPath id="clip-path">
+            <path id="矩形_2" data-name="矩形 2" class="cls-1" d="M0 0h15.429v15.547H0z"/>
+        </clipPath>
+        <style>
+            .cls-1{fill:#fff}.cls-3{fill:#070f08}
+        </style>
+    </defs>
+    <g id="组_21" data-name="组 21" transform="translate(-1378 -39)">
+        <circle id="椭圆_1" data-name="椭圆 1" class="cls-1" cx="15" cy="15" r="15" transform="translate(1378 39)"/>
+        <g id="组_12" data-name="组 12" transform="translate(1385.794 45.136)" style="clip-path:url(#clip-path)">
+            <path id="路径_1092" data-name="路径 1092" class="cls-3" d="M232.568 49.645v-5.7c0-2.789-.6-4.938-3.832-4.938a3.357 3.357 0 0 0-3.026 1.676h-.045v-1.418H222.6v10.38h3.195v-5.14c0-1.353.255-2.662 1.918-2.662 1.638 0 1.663 1.544 1.663 2.749v5.054z" transform="translate(-217.143 -34.098)"/>
+            <path id="路径_1093" data-name="路径 1093" class="cls-3" d="M217.4 39.266h3.2v10.38h-3.2z" transform="translate(-217.143 -34.098)"/>
+            <path id="路径_1094" data-name="路径 1094" class="cls-3" d="M219 34.1a1.876 1.876 0 1 0 1.852 1.867A1.861 1.861 0 0 0 219 34.1z" transform="translate(-217.143 -34.098)"/>
+        </g>
+    </g>
+</svg>

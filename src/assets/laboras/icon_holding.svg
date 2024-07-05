@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44">
+    <defs>
+        <clipPath id="fac98zj4ba">
+            <path data-name="矩形 4682" transform="translate(269 696)" style="stroke:#9f9f9f;fill:#fff" d="M0 0h44v44H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="蒙版组 128" transform="translate(-269 -696)" style="clip-path:url(#fac98zj4ba)">
+        <g data-name="组 11335">
+            <path data-name="路径 30979" d="m16.987 16.937 5.62 1.873S36.656 16 38.53 16s1.873 1.873 0 3.747-8.43 7.493-14.05 7.493-9.367-2.81-13.113-2.81H2" transform="translate(269.588 707.657)" style="stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;fill:transparent;stroke:#9f9f9f"/>
+            <path data-name="路径 30980" d="M2 16.683C3.873 14.81 7.62 12 11.367 12s12.645 3.747 14.05 5.62-2.81 4.683-2.81 4.683" transform="translate(269.588 704.164)" style="stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;fill:transparent;stroke:#9f9f9f"/>
+            <path data-name="路径 30981" d="M8 13.367V5.873A1.874 1.874 0 0 1 9.873 4h22.48a1.874 1.874 0 0 1 1.873 1.873V20.86" transform="translate(274.828 697.177)" style="stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;fill:transparent;stroke:#9f9f9f"/>
+            <path data-name="矩形 4683" transform="translate(291.258 701.177)" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;stroke:#9f9f9f" d="M0 0h9.367v8.43H0z"/>
+        </g>
+    </g>
+</svg>

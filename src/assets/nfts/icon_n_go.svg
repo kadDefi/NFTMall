@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" viewBox="0 0 22 20">
+    <defs>
+        <clipPath id="a">
+            <path data-name="矩形 217" transform="translate(922 905.502)" style="stroke:#707070;fill:#fff" d="M0 0h22v20H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="蒙版组 84" transform="translate(-922 -905.502)" style="clip-path:url(#a)">
+        <path data-name="路径 2272" d="m4.523.619 17.034 7.333c1.218.525 1.218 1.693 0 2.218L4.523 17.5c-1.219.525-2.925.965-3.905 0-.8-1.691 2.255-3.728 2.255-8.711C2.873 4.43-.227 1.45.618.616 1.127-.461 3.3.094 4.523.619z" transform="translate(921.529 906)" style="fill:#fff"/>
+    </g>
+</svg>

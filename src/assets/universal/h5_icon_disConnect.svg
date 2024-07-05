@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="60" viewBox="0 0 320 60">
+    <defs>
+        <linearGradient id="ijeicg0lja" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#6929af"/>
+            <stop offset="1" stop-color="#3b2999"/>
+        </linearGradient>
+    </defs>
+    <rect data-name="矩形 4554" width="320" height="60" rx="10" style="fill:url(#ijeicg0lja)"/>
+</svg>

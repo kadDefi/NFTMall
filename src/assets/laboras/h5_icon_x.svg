@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+    <defs>
+        <clipPath id="te0z79s16a">
+            <path data-name="矩形 8051" transform="translate(416 897)" style="opacity:.494;fill:#9a55dc" d="M0 0h30v30H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="蒙版组 530" transform="translate(-416 -897)" style="clip-path:url(#te0z79s16a)">
+        <path data-name="路径 2174" d="M10.836 11.189a2.32 2.32 0 0 1-3.6-.33l-5.57-5.851a2.41 2.41 0 0 1 .017-3.326 2.281 2.281 0 0 1 3.3.018l4.2 4.413 4.22-4.343a2.281 2.281 0 0 1 3.3.018 2.411 2.411 0 0 1-.017 3.325l-5.605 5.769a2.333 2.333 0 0 1-.245.307z" transform="translate(421.809 905.835)" style="fill:#9a55dc"/>
+    </g>
+</svg>

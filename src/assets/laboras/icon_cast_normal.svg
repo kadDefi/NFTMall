@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+    <defs>
+        <clipPath id="1tupgmt09a">
+            <path data-name="矩形 7334" transform="translate(300 478)" style="fill:#fff" d="M0 0h30v30H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="蒙版组 419" transform="translate(-300 -478)" style="clip-path:url(#1tupgmt09a)">
+        <g data-name="组 23374">
+            <g data-name="椭圆 248" style="stroke:#9e94a8" transform="translate(304.773 482.773)">
+                <circle cx="10.227" cy="10.227" r="10.227" style="stroke:none"/>
+                <circle cx="10.227" cy="10.227" r="9.727" style="fill:none"/>
+            </g>
+        </g>
+    </g>
+</svg>

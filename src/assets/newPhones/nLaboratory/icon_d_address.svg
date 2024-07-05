@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44.182" height="54" viewBox="0 0 44.182 54">
+    <defs>
+        <linearGradient id="pha5h6w32a" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#e70fbc"/>
+            <stop offset="1" stop-color="#5f2ee2"/>
+        </linearGradient>
+        <clipPath id="bc59u9vqob">
+            <path data-name="矩形 6987" style="fill:url(#pha5h6w32a);stroke:#707070" d="M0 0h44.182v54H0z"/>
+        </clipPath>
+    </defs>
+    <g style="clip-path:url(#bc59u9vqob)" data-name="组 22469">
+        <path data-name="路径 107129" d="M30.734 49.539c.759 0 3.194-1.012 6.679-4.234 5.536-5.1 12-14.052 12-22.483a18.792 18.792 0 1 0-37.584 0c.001 13.246 15.43 26.436 18.905 26.717zm-.112-37.912a8.956 8.956 0 1 1-8.956 8.956 8.956 8.956 0 0 1 8.956-8.956zM51.044 51.3c0 1.752-7.2 5.152-20.422 5.152S10.2 53.052 10.2 51.3c0-1.171 3.372-3.344 10.886-4.468a1.255 1.255 0 0 0 .375-.122c3.522 3.326 6.97 5.461 9.049 5.621h.262c2.81 0 6.9-3.457 8.553-4.974.206-.187.412-.393.618-.6a1.873 1.873 0 0 0 .215.056c7.514 1.143 10.886 3.316 10.886 4.487z" transform="translate(-8.974 -2.803)" style="fill:url(#pha5h6w32a)"/>
+    </g>
+</svg>

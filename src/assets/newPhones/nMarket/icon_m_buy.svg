@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+    <defs>
+        <linearGradient id="5lwo8o09va" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#ff953f"/>
+            <stop offset="1" stop-color="#fcca6e"/>
+        </linearGradient>
+    </defs>
+    <g data-name="组 22712">
+        <path data-name="联合 35" d="M15.269 48.036A25.085 25.085 0 1 1 25 50a24.906 24.906 0 0 1-9.731-1.964zm1.478-42.577A21.285 21.285 0 1 0 25 3.794a21.137 21.137 0 0 0-8.253 1.665z" style="fill:url(#5lwo8o09va)"/>
+        <g data-name="组 22711">
+            <path data-name="路径 147422" d="M12.537 24.742a2.1 2.1 0 0 1-.165-2.968l6.266-6.925H2.644A2.159 2.159 0 0 1 .5 12.87a2.3 2.3 0 0 1 2.144-2.144h15.994L12.537 3.8A2.1 2.1 0 0 1 12.7.833a2.27 2.27 0 0 1 2.8.33l9.234 10.388a2.006 2.006 0 0 1 0 2.638l-9.229 10.223a2.1 2.1 0 0 1-2.968.33z" transform="translate(12.34 12.345)" style="fill:url(#5lwo8o09va)"/>
+        </g>
+    </g>
+</svg>
