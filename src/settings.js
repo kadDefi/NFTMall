@@ -16,7 +16,7 @@ module.exports = {
   // 服务器接口地址
   baseOneURL: 'https://xxx',
   // IPFS节点
-  ipfsNode: 'test-ipfs-content.hermodbridge.lat',
+  ipfsNode: 'https://test-ipfs-content.hermodbridge.lat',
   // NFT url
   ipfsNFTUrl: 'https://test-ipfs.hermodbridge.lat/ipfs/',
   // rpc 节点地址
