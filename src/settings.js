@@ -16,9 +16,9 @@ module.exports = {
   // 服务器接口地址
   baseOneURL: 'https://xxx',
   // IPFS节点
-  ipfsNode: 'http://52.74.7.15:5001',
+  ipfsNode: 'test-ipfs-content.hermodbridge.lat',
   // NFT url
-  ipfsNFTUrl: 'http://52.74.7.15:8080/ipfs/',
+  ipfsNFTUrl: 'https://test-ipfs.hermodbridge.lat/ipfs/',
   // rpc 节点地址
   rpc: 'https://endpoints.omniatech.io/v1/bsc/testnet/public',
   // wallet Connect
